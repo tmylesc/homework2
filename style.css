@@ -1,0 +1,31 @@
+
+.navbar {
+    padding: 0px;
+    border-bottom: 1px solid #517A9B;
+    font-family: 'Roboto', sans-serif;
+    font-size: 24px;
+}
+
+.navbar-brand {
+    padding: 20px;
+    background-color: #517A9B;
+}
+
+.navbar-light .navbar-brand {
+    color: white;
+    font-size: 24px;
+}
+
+.navbar-light .navbar-brand:hover {
+    color: white;
+}
+
+.navbar-light .navbar-nav .nav-link.active {
+    color: #517A9B;
+    padding: 20px;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: #517A9B;
+    padding: 20px;
+}
