@@ -1,3 +1,11 @@
+*{
+    font-family: 'Roboto', sans-serif;
+}
+
+body {
+    background-image: url("assets/Images/background.png");
+}
+
 
 .navbar {
     padding: 0px;
@@ -9,23 +17,5 @@
 .navbar-brand {
     padding: 20px;
     background-color: #517A9B;
-}
-
-.navbar-light .navbar-brand {
     color: white;
-    font-size: 24px;
-}
-
-.navbar-light .navbar-brand:hover {
-    color: white;
-}
-
-.navbar-light .navbar-nav .nav-link.active {
-    color: #517A9B;
-    padding: 20px;
-}
-
-.navbar-light .navbar-nav .nav-link {
-    color: #517A9B;
-    padding: 20px;
 }
