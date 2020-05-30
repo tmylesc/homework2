@@ -20,6 +20,29 @@ body {
     color: white;
 }
 
+.aboutMe {
+    padding: 25px;
+}
+
+.bioImage {
+    width: 150px;
+    height: 150px;
+    float: left;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+
 section {
     background-color: white;
+    margin: 25px 0 25px 0;
 }
+
+footer {
+    border-top: 5px solid #517A9B;
+    background-color: navy;
+    color: white;
+    text-align: center;
+    font-size: 12px;
+    padding: 25px;
+}
+
