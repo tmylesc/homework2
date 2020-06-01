@@ -37,6 +37,16 @@ section {
     margin: 25px 0 25px 0;
 }
 
+.portfolioImage {
+    width: 250px;
+    height: 250px;
+    padding: 10px;
+}
+
+.btn {
+    width: 100px;
+}
+
 footer {
     border-top: 5px solid #517A9B;
     background-color: navy;
