@@ -7,6 +7,10 @@ body {
     padding-bottom: 120px;
 }
 
+h3 {
+    color: #343a40;
+}
+
 
 .navbar {
     padding: 0px;
@@ -63,6 +67,11 @@ section {
 
 .btn {
     width: 100px;
+}
+
+.btn-primary {
+    background-color: #343a40;
+    border-color: #343a40;
 }
 
 footer {
